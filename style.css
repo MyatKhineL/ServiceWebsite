@@ -182,7 +182,9 @@ outline:none;
         font-size:20px !important;
     }
     .mobile-view{
-    padding-left: 10px;
+     display: flex;
+    justify-content:space-around;
+    }
     }
     .CompanyErx{
         padding-top: 30px;
